@@ -8,7 +8,7 @@
  * @author chai
  */
 
-//Version 2
+//Version 3
 
 import java.util.Scanner;
 import java.util.Arrays;
